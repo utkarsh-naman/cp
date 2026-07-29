@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.io.IOException;
 
 
-public class CSEScountingGrids{
+public class CSES2210{
     static long MOD = 1_000_000_007;
     static long INV4 = 25_000_000_2;
 
